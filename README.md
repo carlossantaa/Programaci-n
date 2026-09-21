@@ -1,2 +1,2 @@
-# Programaci-n
+# Programacion
 Repositiorio del módulo de programación
